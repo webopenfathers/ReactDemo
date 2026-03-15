@@ -1,7 +1,11 @@
+import SlideAnimateTab from "./components/1-slideAnimateTab"
+
 function App() {
 
   return (
-    <div>888</div>
+    <>
+      <SlideAnimateTab />
+    </>
   )
 }
 
